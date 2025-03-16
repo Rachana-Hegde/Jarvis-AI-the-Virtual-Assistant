@@ -78,6 +78,7 @@ python jarvis.py
 ```
 jarvis-virtual-assistant/
 │── jarvis.py               # Main Python script
+│── python-3.13.2-amd64     # Install this software for PyAudio 
 │── README.md               # Project documentation
 │── /music                  # (Optional) Folder to store music files
 │── /screenshots            # (Optional) Folder where screenshots will be saved
