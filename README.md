@@ -100,11 +100,7 @@ Contributions, suggestions, and improvements are welcome!
 4. Push to the branch: `git push origin feature-name`.  
 5. Open a pull request.  
 
-## 📄 License  
-
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute.  
-
 ## 📬 Contact  
 
 For queries or feedback:  
-🔗 **GitHub:** [Rachana-Hegde](https://github.com/your-username)  
+🔗 **GitHub:** [Rachana-Hegde]
